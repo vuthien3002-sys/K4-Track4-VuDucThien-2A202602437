@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Họ và tên | Vu Duc Thien |
+| Họ và tên | Vũ Đức Thiện |
 | MSSV (đúng bằng `--student-id` bạn đã chạy) | 2A202602437 |
 | GitHub | vuthien3002-sys |
 | Seed chia dữ liệu / seed mô hình (xem `evidence/closedloop.json`, mục `student`) | split seed 1527 / model seed 8044 (5 seed: 8044–8048) |
